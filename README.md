@@ -27,3 +27,7 @@ extract_feature: extract resnet-50 2048-d for each imgs.
 
 render_26: render 26 colored view around the objects.
 
+# screenshot
+
+
+![Alt text](pic/demo.png?raw=true "screenshot")
